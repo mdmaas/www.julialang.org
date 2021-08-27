@@ -1,5 +1,6 @@
 ## Tutorials
 @@tight-lis
+* [Numerical Computing in Julia: A Hands-On-Tutorial](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html) by [Martin D. Maas](https://github.com/mdmaas). Get started with Julia for numerical computing.
 * [Zero2Hero intensive workshop](https://www.youtube.com/watch?v=Fi7Pf2NveH0) by [George Datseris](https://github.com/Datseris). An intensive workshop targeting an audience familiar with programming that wants to transition to Julia and use Julia like a pro.
 * [From zero to Julia!](https://techytok.com/from-zero-to-julia/) by [Aurelio Amerio](https://github.com/aurelio-amerio). An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics.
 *   [Julia Workshop for Physicists](https://github.com/crstnbr/JuliaOulu20) by [Carsten Bauer](https://github.com/crstnbr) (see also [JuliaWorkshop19](https://github.com/crstnbr/JuliaWorkshop19)).
